@@ -25,61 +25,71 @@ Before starting the assignment, be sure to complete the following steps:
 ## Files
 Download the following files to help you get started:
 
-Module 3 Challenge filesLinks to an external site.
+[Module 3 Challenge Files](https://static.bc-edx.com/data/dl-1-2/m3/lms/starter/Starter_Code.zip)
 
 ## PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
 
-The total number of months included in the dataset
+<ul>
+<li>The total number of months included in the dataset</li>
 
-The net total amount of "Profit/Losses" over the entire period
+<li>The net total amount of "Profit/Losses" over the entire period</li>
 
-The changes in "Profit/Losses" over the entire period, and then the average of those changes
+<li>The changes in "Profit/Losses" over the entire period, and then the average of those changes</li>
 
-The greatest increase in profits (date and amount) over the entire period
+<li>The greatest increase in profits (date and amount) over the entire period</li>
 
-The greatest decrease in profits (date and amount) over the entire period
+<li>The greatest decrease in profits (date and amount) over the entire period</li>
+</ul>
 
 Your analysis should align with the following results:
 
-Financial Analysis
-----------------------------
+
+### Financial Analysis
+---------------------
 Total Months: 86
+
 Total: $22564198
+
 Average Change: $-8311.11
+
 Greatest Increase in Profits: Aug-16 ($1862002)
+
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+<ul>
+<li>The total number of votes cast
 
-The total number of votes cast
+<li>A complete list of candidates who received votes
 
-A complete list of candidates who received votes
+<li>The percentage of votes each candidate won
 
-The percentage of votes each candidate won
+<li>The total number of votes each candidate won
 
-The total number of votes each candidate won
-
-The winner of the election based on popular vote
-
+<li>The winner of the election based on popular vote
+</ul>
 Your analysis should align with the following results:
 
-Election Results
+### Election Results
 -------------------------
 Total Votes: 369711
--------------------------
+
 Charles Casper Stockham: 23.049% (85213)
+
 Diana DeGette: 73.812% (272892)
+
 Raymon Anthony Doane: 3.139% (11606)
--------------------------
+
 Winner: Diana DeGette
--------------------------
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## Hints and Considerations
