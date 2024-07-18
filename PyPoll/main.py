@@ -1,4 +1,5 @@
 print("Election Results")
+print("-----------------")
 
 import os
 import csv
@@ -38,6 +39,6 @@ for candidate_name, votes in candidate_votes.items():
         winner = candidate_name
         winner_votes = votes
 
-
+print("-----------------")
 print(f"Winner: {winner}")
 
