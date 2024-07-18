@@ -103,8 +103,8 @@ Always commit your work and back it up with pushes to GitHub or GitLab. You don'
 
 ## Problem Spots
 
-I ran into issues when trying to format a code to pull information from the CSV to locate the necessary data that would be used (PyPoll), pulling the average change/getting this information to print, getting the dates to show up for the greatest increase and decrease in profits (PyBank) and with debugging the my codes.
+I ran into issues when trying to format a code to pull information from the CSV to locate the necessary data that would be used (PyPoll), pulling and coding the average change/getting this information to print correctly, getting the dates to show up for the greatest increase and decrease in profits (PyBank) and with debugging the my codes.
 
 ## Recourses Used
 
-I referenced notes that I took throughout the class as well as using the recorded zoom videos/class assignments that I followed along writing the code with our professor as well as referencing [w3schools](https://www.w3schools.com/python/).
+I referenced notes that I took throughout the class as well as using the recorded zoom videos/class assignments that I followed along writing the code with our professor as well as referencing the following websites: [w3schools](https://www.w3schools.com/python/) and [Stack Overflow](https://stackoverflow.com/).
