@@ -103,7 +103,7 @@ Always commit your work and back it up with pushes to GitHub or GitLab. You don'
 
 ## Problem Spots
 
-I ran into issues when trying to format a code to pull information from the CSV in order to locate and pull the information when working on writing my first code (PyPoll), pulling the average change and getting the dates to show up for the greatest increase and decrease in profits (PyBank) and with debugging the my codes.
+I ran into issues when trying to format a code to pull information from the CSV to locate the necessary data that would be used (PyPoll), pulling the average change/getting this information to print, getting the dates to show up for the greatest increase and decrease in profits (PyBank) and with debugging the my codes.
 
 ## Recourses Used
 
