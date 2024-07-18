@@ -100,3 +100,11 @@ The datasets for these Challenges are quite large. This was done purposefully to
 Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
 
 Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
+
+## Problem Spots
+
+I ran into issues when trying to format a code to pull information from the CSV in order to locate and pull the information when working on writing my first code (PyPoll), pulling the average change and getting the dates to show up for the greatest increase and decrease in profits (PyBank) and with debugging the my codes.
+
+## Recourses Used
+
+I referenced notes that I took throughout the class as well as using the recorded zoom videos/class assignments that I followed along writing the code with our professor as well as referencing [w3schools](https://www.w3schools.com/python/).
